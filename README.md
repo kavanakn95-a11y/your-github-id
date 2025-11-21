@@ -12,7 +12,7 @@ INSTRUCTIONS:
 
 <!-- Header -->
 <h1 align="center">
-  Hi there! 👋 I'm <!-- TODO: Your first name here --> Gauresh
+  Hi there! 👋 I'm <!-- TODO: Your first name here --> kavana
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 </h1>
 
@@ -23,7 +23,7 @@ TODO:
   Docs: https://komarev.com/ghpvc/
 -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gaureshpai&style=flat-square&color=blue" alt="Profile views">
+  <img src="https://komarev.com/ghpvc/?username=kavana&style=flat-square&color=blue" alt="Profile views">
 </p>
 
 <!--
@@ -32,14 +32,8 @@ TODO:
 - If you don't have one, just remove that badge
 -->
 <p align="center">
-  <a href="https://linkedin.com/in/gaureshpai"><!-- TODO: Your LinkedIn URL -->
+  <a href="https://linkedin.com/in/knkavana"><!-- TODO: Your LinkedIn URL -->
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://twitter.com/hseruag"><!-- TODO: Your Twitter/X URL (or remove) -->
-    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter">
-  </a>
-  <a href="https://gauresh.vercel.app"><!-- TODO: Your portfolio URL (or GitHub profile link) -->
-    <img src="https://img.shields.io/badge/-Portfolio-E34F26?style=flat-square" alt="Portfolio">
   </a>
 </p>
 
@@ -51,7 +45,7 @@ TODO:
 TODO: Write 3–4 short points about yourself.
      Tip: Keep it simple, it's okay if you're just starting.
 -->
-- CSE student at <!-- TODO: Your college name --> AJIET, Mangalore  
+- CSE-ICB student at <!-- TODO: Your college name --> AJIET, Mangalore  
 - Learning <!-- TODO: e.g., C, Python, Web dev, DSA --> full‑stack web development  
 - Interested in <!-- TODO: your interests: AI, web, gaming, etc. --> open-source, hackathons, and building cool projects  
 
@@ -66,19 +60,13 @@ TODO: Write 3–4 short points about yourself.
   - Go to https://holopin.io, sign in, and get your own badge link if you want.
   - Replace `gaureshpai` with YOUR Holopin username.
   - Or delete this block if you don't use Holopin.
-  -->
-  <a href="https://holopin.io/@gaureshpai">
-    <img src="https://holopin.me/gaureshpai" alt="Holopin badges">
-  </a>
-
-  <br><br>
 
   <!--
   TODO:
   - Change `username=gaureshpai` to YOUR GitHub username
   -->
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gaureshpai&theme=radical" alt="GitHub Summary Card">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kavanakn95-ally&theme=radical" alt="GitHub Summary Card">
   </a>
 
 </div>
@@ -93,8 +81,8 @@ TODO: Write 3–4 short points about yourself.
   TODO:
   - Change `username=gaureshpai` to YOUR GitHub username in both images
   -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gaureshpai&theme=default" alt="Top Languages by repo">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gaureshpai&theme=default" alt="Top Languages by commit">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kavanakn95-ally&theme=default" alt="Top Languages by repo">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kavanakn95-ally&theme=default" alt="Top Languages by commit">
 
   <br><br>
 
@@ -103,8 +91,8 @@ TODO: Write 3–4 short points about yourself.
   - Change `username=gaureshpai` to YOUR GitHub username
   - You can change theme and show_icons at: https://github.com/anuraghazra/github-readme-stats
   -->
-  <a href="https://github.com/gaureshpai">
-    <img src="https://github-readme-stats.vercel.app/api?username=gaureshpai&show_icons=true&theme=tokyonight" alt="GitHub stats">
+  <a href="https://github.com/kavanakn95">
+    <img src="https://github-readme-stats.vercel.app/api?username=kavanakn95-ally&show_icons=true&theme=tokyonight" alt="GitHub stats">
   </a>
 
 </div>
